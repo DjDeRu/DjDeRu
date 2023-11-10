@@ -1,1 +1,2 @@
---BI analyst
+--Data analyst
+--Skills:Power BI,python(Numpy,pandas),SQL(Postgresql,SQL Server),Excel
